@@ -11,3 +11,5 @@ console.log(toto.toUpperCase());
 //  var message = "anaconda";
    
 //  console.log( message.replace(/[aeltso]/g, replaceChr) );
+      //snake  //return str.toLowerCase().trim().replace(/ /g, "_");
+//        //return str.split("").reverse().join("");
